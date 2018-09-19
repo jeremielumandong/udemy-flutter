@@ -1,6 +1,6 @@
-# flutter1
+# Sample application from Learn Flutter and Dart Udemy Course
 
-A new Flutter project.
+A Easy List Project
 
 ## Getting Started
 
